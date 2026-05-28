@@ -1,4 +1,5 @@
-```import random
+```
+import random
 
 def 볼링점수계산기(기록):
     총점 = 0
